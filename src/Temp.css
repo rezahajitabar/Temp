@@ -29,12 +29,25 @@
     margin-top: 90px;
 }
 
+
 button{
     background-color: aqua;
-    width: 20%;
+    width: 4rem;
+    height: 4rem;
     padding: 7px 15px;
-    margin: 4rem 4.5rem;
+    margin: 5rem 4.5rem;
     border-radius: 9px;
     font-size: 1.2rem;
     cursor: pointer;
+    border-radius: 50%;
+    margin-left: 100px;
+    color: #070101;
+}
+
+.cold{
+    background-color: blue;
+}
+
+.hot{
+    background-color: orange;
 }
